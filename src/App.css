@@ -6,6 +6,14 @@
   --orange: #f5e6db;
   --raisin: #2b283aff;
   --grey: #d4d4d4;
+  --mecury: 4879;
+  --venus: 12104;
+  --earth: 12742;
+  --mars: 6779;
+  --jupiter: 139822;
+  --saturn: 116464;
+  --uranus: 50724;
+  --neptune: 49244;
 }
 
 body {
